@@ -1,13 +1,15 @@
+package prviCas;
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class PrviCas {
+    public static void prviCas(){
+        Scanner scanner = new Scanner(System.in);
 //        int a = 10, b = 5 , c;
 //        c = a + b;
 //        c = c + 5;
 //
 //        System.out.println("Zdravo Svete"); //Ispisuje stvari u konzoli
-        Scanner scanner = new Scanner(System.in); //
+
 //        c = scanner.nextInt();
 //        System.out.println("Promenljiva c ima vrednost: " + c); // Scanner ceka input iz konzole
 //        int q , w , e;

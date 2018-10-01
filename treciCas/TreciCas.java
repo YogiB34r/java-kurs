@@ -1,7 +1,8 @@
+package treciCas;
 import java.util.Scanner;
 
-public class F_cije {
-    public static void main(String[] args) {
+public class TreciCas {
+    public static void treciCas() {
         int  niz[];
         Scanner scanner=new Scanner(System.in);
         System.out.print("Unesite velicinu niza: ");

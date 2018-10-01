@@ -1,4 +1,4 @@
-package Domaci;
+﻿package domaci;
 
 import java.util.Scanner;
 
