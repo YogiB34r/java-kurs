@@ -1,9 +1,8 @@
-﻿package domaci;
-
+package prviCas.domaci;
 import java.util.Scanner;
 
-public class Domaci_2 {
-    public void domaci() {
+public class Domaci2 {
+    public static void domaci() {
         int a, b;
         System.out.println("Unesite ceo paran broj");
         Scanner scanner = new Scanner(System.in);

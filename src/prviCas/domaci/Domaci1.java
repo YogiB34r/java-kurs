@@ -1,9 +1,8 @@
-﻿package domaci;
-
+package prviCas.domaci;
 import java.util.Scanner;
 
-public class Domaci_1 {
-    public void domaci() {
+public class Domaci1 {
+    public static void domaci() {
         Scanner scanner = new Scanner(System.in);
         boolean exit = false;
         do {
