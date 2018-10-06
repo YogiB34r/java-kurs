@@ -1,3 +1,4 @@
+import cetvrtiCas.domaci.SeniorProgramer;
 import drugiCas.domaci.Domaci;
 import sestiCas.Animal;
 import sestiCas.Krava;

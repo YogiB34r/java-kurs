@@ -1,4 +1,4 @@
-package cetvrtiCas;
+package cetvrtiCas.domaci;
 
 public class JuniorProgramer extends Programer {
     public JuniorProgramer(String ime, String prezime, int osnovnaPlata, String programskiJezik, int zarada) {

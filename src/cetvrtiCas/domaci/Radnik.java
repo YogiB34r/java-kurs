@@ -1,4 +1,4 @@
-package cetvrtiCas;
+package cetvrtiCas.domaci;
 
 abstract class Radnik {
     private String ime;

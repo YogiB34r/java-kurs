@@ -1,4 +1,4 @@
-package cetvrtiCas;
+package cetvrtiCas.domaci;
 
 public class SeniorProgramer extends Programer {
     private boolean lider;

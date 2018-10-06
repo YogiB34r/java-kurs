@@ -1,4 +1,4 @@
-package cetvrtiCas;
+package cetvrtiCas.domaci;
 
 abstract class Programer extends Radnik {
     private String programskiJezik;
